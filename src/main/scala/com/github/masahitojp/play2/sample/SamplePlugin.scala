@@ -1,4 +1,4 @@
-package com.github.masahitojp.play2.plugin
+package com.github.masahitojp.play2.sample
 
 import play.api._
 
